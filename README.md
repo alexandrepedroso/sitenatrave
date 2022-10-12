@@ -1,10 +1,11 @@
 <div align="start">
- <img src="https://user-images.githubusercontent.com/101142042/195394799-de11ed12-202f-4bb0-a031-10c387021f2e.png" width=350px />
+ <img src="https://user-images.githubusercontent.com/101142042/195394799-de11ed12-202f-4bb0-a031-10c387021f2e.png" width=300px />
 </div>
+<br />
+
 ## Aplicação/Site Natrave
 Site de palpites para jogos da Copa do Mundo de 2022 desenvolvido em React
 <br/>Arquivos dentro da branch **master**
-
 
 ## Objetivo do projeto e Estrutura
 Este projeto de estudo foi realizado durante o evento __Full Stack Challenge__, promovido pela plataforma/curso Codar.me <br />
