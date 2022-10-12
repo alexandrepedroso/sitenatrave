@@ -7,7 +7,7 @@
 Site de palpites para jogos da Copa do Mundo de 2022 desenvolvido em React
 <br/>Arquivos dentro da branch **master**
 
-## Objetivo do projeto e Estrutura
+## :clipboard:	Objetivo do projeto e Estrutura
 Este projeto de estudo foi realizado durante o evento __Full Stack Challenge__, promovido pela plataforma/curso Codar.me <br />
 A aplicação tem as seguintes páginas: <br />
 - Home: Página de primeira visita, onde é apresentada a marca e encaminhado para login ou novo cadastro;
@@ -17,10 +17,10 @@ A aplicação tem as seguintes páginas: <br />
 selecionado. Sendo os jogos também armazenados em um banco de dados (tabela);
 - Profile: Página de perfil do usuário que mostra os palpites já realizados pelo mesmo, obtendo informações da página de Dashboard;<br />
 <br/>
-##Aprendizado
+## :books:	Aprendizado
 Decidi upar o projeto para o Github como forma de mostrar o estudo realizado durante o evento que ocorreu durante os dias 03 a 07 de Outubro, onde tive meu primeiro contato com React, utilização de banco de dados e construção do back-end de uma 
 
-## Tecnologias
+## :computer: Tecnologias
 * Back-end
   * __Node__ e__Koa__ 
   * __Prisma ORM__ - (Banco de dados)
@@ -31,10 +31,8 @@ Decidi upar o projeto para o Github como forma de mostrar o estudo realizado dur
   * __React-Use__ 
   * __Date-Fns__ 
   * __Formik / Yup__ 
-  
 <br />
-
-## :car: Utilizando a aplicação
+## :arrow_forward: Utilizando a aplicação
 Baixe o repositório com git clone e entre na pasta do projeto.<br/>
 Renomeie os arquivos _.env.example_ para _.env_ e informe as URLs e o JWT secret.<br/>
 ```bash
@@ -63,7 +61,7 @@ $ cd ..
 $ cd web
 $ npm run dev
 ```
-## Exemplo da aplicação executando:
+## :mag: Exemplo da aplicação executando:
 <p align="center">
   <kbd>
  <img width="auto" style="border-radius: 10px" height="auto" 
