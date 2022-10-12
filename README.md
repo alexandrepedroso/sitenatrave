@@ -1,3 +1,6 @@
+<div align="start">
+ ![logo-fundo-vinho](https://user-images.githubusercontent.com/101142042/195394799-de11ed12-202f-4bb0-a031-10c387021f2e.png)
+</div>
 # Aplicação/Site Natrave
 Site de palpites para jogos da Copa do Mundo de 2022 desenvolvido em React
 <br/>Arquivos dentro da branch **master**
