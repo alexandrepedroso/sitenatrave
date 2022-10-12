@@ -17,7 +17,7 @@ A aplicação tem as seguintes páginas: <br />
 selecionado. Sendo os jogos também armazenados em um banco de dados (tabela);
 - Profile: Página de perfil do usuário que mostra os palpites já realizados pelo mesmo, obtendo informações da página de Dashboard;<br />
 ## :books:	Aprendizado
-Decidi upar o projeto para o Github como forma de mostrar o estudo realizado durante o evento que ocorreu durante os dias 03 a 07 de Outubro, onde tive meu primeiro contato com React, utilização de banco de dados e construção do back-end de uma 
+Decidi upar o projeto para o Github como forma de mostrar o estudo realizado durante o evento que ocorreu durante os dias 03 a 07 de Outubro, onde tive meu primeiro contato com React, banco de dados e construção do back-end de uma aplicação web do ínicio ao fim. 
 
 ## :computer:	Tecnologias
 * Back-end
