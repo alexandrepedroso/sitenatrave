@@ -3,7 +3,7 @@
 </div>
 <br />
 
-## Aplicação
+## :link: Aplicação
 Site de palpites para jogos da Copa do Mundo de 2022 desenvolvido em React
 <br/>Arquivos dentro da branch **master**
 
@@ -21,39 +21,39 @@ Decidi upar o projeto para o Github como forma de mostrar o estudo realizado dur
 
 ## :computer:	Tecnologias
 * Back-end
-  * __Node__ e__Koa__ 
+  * __Node__ e __Koa__ 
   * __Prisma ORM__ - (Banco de dados)
 * Front-end
   * __Axios__ 
-  * __React e Vite__
+  * __React__ e __Vite__
   * __Tailwind CSS__ 
   * __React-Use__ 
   * __Date-Fns__ 
-  * __Formik / Yup__ 
+  * __Formik__ / __Yup__ 
 ## ⚙️	Utilizando a aplicação
-Baixe o repositório com git clone e entre na pasta do projeto.<br/>
-Renomeie os arquivos _.env.example_ para _.env_ e informe as URLs e o JWT secret.<br/>
+* Baixe o repositório com git clone e entre na pasta do projeto.<br/>
+  Renomeie os arquivos _.env.example_ para _.env_ e informe as URLs e o JWT secret.<br/>
 ```
 $ git clone https://github.com/alexandrepedroso/sitenatrave.git
 ```
-* Para baixar as ferramentas de Back-end necessárias:
-```bash
+* Para entrar na pasta de back-end e baixar as ferramentas necessárias:
+```
 $ cd api
 $ npm install
 $ npm run start
 ```
-Para iniciar servidor de banco de dados:
+* Iniciando servidor:
 ```
 $ cd api
 $ npm run start
 ```
-* Para baixar as ferramentas de Front-end necessárias:
+* Para entrar na pasta de Front-end e baixar as ferramentas necessárias:
 ```
 $ cd ..
 $ cd web
 $ npm install
 ```
-Para iniciar servidor:
+* Iniciando servidor:
 ```
 $ cd ..
 $ cd web
@@ -65,5 +65,6 @@ $ npm run dev
  <img width="auto" style="border-radius: 10px" height="auto" 
  src="https://github.com/alexandrepedroso/sitenatrave/blob/master/public/imgs/GifPreview.gif" alt="Intro">
   </kbd>
+ <p>- Gif que mostra a aplicação em funcionamento.</p>
   </br>
 </p>
