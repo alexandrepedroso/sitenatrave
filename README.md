@@ -3,7 +3,7 @@
 </div>
 <br />
 
-## Aplicação/Site Natrave
+## Aplicação
 Site de palpites para jogos da Copa do Mundo de 2022 desenvolvido em React
 <br/>Arquivos dentro da branch **master**
 
@@ -20,7 +20,7 @@ selecionado. Sendo os jogos também armazenados em um banco de dados (tabela);
 ## :books:	Aprendizado
 Decidi upar o projeto para o Github como forma de mostrar o estudo realizado durante o evento que ocorreu durante os dias 03 a 07 de Outubro, onde tive meu primeiro contato com React, utilização de banco de dados e construção do back-end de uma 
 
-## :computer: Tecnologias
+## 💻	Tecnologias
 * Back-end
   * __Node__ e__Koa__ 
   * __Prisma ORM__ - (Banco de dados)
@@ -32,7 +32,7 @@ Decidi upar o projeto para o Github como forma de mostrar o estudo realizado dur
   * __Date-Fns__ 
   * __Formik / Yup__ 
 <br />
-## :arrow_forward: Utilizando a aplicação
+## ⚙️	Utilizando a aplicação
 Baixe o repositório com git clone e entre na pasta do projeto.<br/>
 Renomeie os arquivos _.env.example_ para _.env_ e informe as URLs e o JWT secret.<br/>
 ```bash
@@ -61,7 +61,7 @@ $ cd ..
 $ cd web
 $ npm run dev
 ```
-## :mag: Exemplo da aplicação executando:
+## 🔎	Exemplo da aplicação executando:
 <p align="center">
   <kbd>
  <img width="auto" style="border-radius: 10px" height="auto" 
