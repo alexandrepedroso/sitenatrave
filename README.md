@@ -1,5 +1,5 @@
 <div align="start">
- <img src="https://user-images.githubusercontent.com/101142042/195394799-de11ed12-202f-4bb0-a031-10c387021f2e.png" width=500px />
+ <img src="https://user-images.githubusercontent.com/101142042/195394799-de11ed12-202f-4bb0-a031-10c387021f2e.png" width=350px />
 </div>
 ## Aplicação/Site Natrave
 Site de palpites para jogos da Copa do Mundo de 2022 desenvolvido em React
