@@ -20,7 +20,6 @@ selecionado. Sendo os jogos também armazenados em um banco de dados (tabela);
 Decidi upar o projeto para o Github como forma de mostrar o estudo realizado durante o evento que ocorreu durante os dias 03 a 07 de Outubro, onde tive meu primeiro contato com React, utilização de banco de dados e construção do back-end de uma 
 
 ## :computer:	Tecnologias
-br
 * Back-end
   * __Node__ e__Koa__ 
   * __Prisma ORM__ - (Banco de dados)
@@ -31,11 +30,10 @@ br
   * __React-Use__ 
   * __Date-Fns__ 
   * __Formik / Yup__ 
-<br />
 ## ⚙️	Utilizando a aplicação
 Baixe o repositório com git clone e entre na pasta do projeto.<br/>
 Renomeie os arquivos _.env.example_ para _.env_ e informe as URLs e o JWT secret.<br/>
-```bash
+```
 $ git clone https://github.com/alexandrepedroso/sitenatrave.git
 ```
 * Para baixar as ferramentas de Back-end necessárias:
@@ -45,18 +43,18 @@ $ npm install
 $ npm run start
 ```
 Para iniciar servidor de banco de dados:
-```bash
+```
 $ cd api
 $ npm run start
 ```
 * Para baixar as ferramentas de Front-end necessárias:
-```bash
+```
 $ cd ..
 $ cd web
 $ npm install
 ```
-Para iniciar servidor
-```bash
+Para iniciar servidor:
+```
 $ cd ..
 $ cd web
 $ npm run dev
