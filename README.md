@@ -4,7 +4,7 @@
 <br />
 
 ## :link: Aplicação
-Site de palpites para jogos da Copa do Mundo de 2022 desenvolvido em React
+Site de palpites para jogos da Copa do Mundo de 2022 desenvolvido em React.
 
 ## :clipboard:	Objetivo do projeto e Estrutura
 Este projeto de estudo foi realizado durante o evento __Full Stack Challenge__, promovido pela plataforma/curso Codar.me <br />
