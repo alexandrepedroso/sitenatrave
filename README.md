@@ -57,7 +57,7 @@ $ cd ..
 $ cd web
 $ npm run dev
 ```
-## 🔎	Exemplo da aplicação executando:
+## 🔎	Exemplo da aplicação funcionando:
 <p align="center">
   <kbd>
  <img width="auto" style="border-radius: 10px" height="auto" 
