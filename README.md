@@ -16,11 +16,11 @@ A aplicação tem as seguintes páginas: <br />
 - Dashboard: É onde é feito os palpites dos jogos da Fase de Grupos da Copa do Mundo do Catar, de acordo com o dia específico <br />
 selecionado. Sendo os jogos também armazenados em um banco de dados (tabela);
 - Profile: Página de perfil do usuário que mostra os palpites já realizados pelo mesmo, obtendo informações da página de Dashboard;<br />
-<br/>
 ## :books:	Aprendizado
 Decidi upar o projeto para o Github como forma de mostrar o estudo realizado durante o evento que ocorreu durante os dias 03 a 07 de Outubro, onde tive meu primeiro contato com React, utilização de banco de dados e construção do back-end de uma 
 
-## 💻	Tecnologias
+## :computer:	Tecnologias
+br
 * Back-end
   * __Node__ e__Koa__ 
   * __Prisma ORM__ - (Banco de dados)
